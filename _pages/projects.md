@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Kaila Danielson - Portfolio
 permalink: /projects/
 ---
 
