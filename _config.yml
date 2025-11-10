@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Kaila Danielson
 description              : Kaila Danielson - Projects and CV 
-baseurl                  : "FA25-Portfolio-KailaDanielson" # Set this to your repo name 
+baseurl                  : "/FA25-Portfolio-KailaDanielson" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -39,7 +39,7 @@ kramdown:
 
 include:
   - _pages
-  
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-feed
