@@ -9,3 +9,5 @@ permalink: /cv/
 
 
 **Email:** [kmd284@cornell.edu](mailto:kmd284@cornell.edu) | | | **Phone:** +207 624 1903
+
+--- 
