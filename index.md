@@ -13,4 +13,4 @@ title: Kaila Danielson
 
 In my free time, I enjoy reading, drawing, and talking about movies. This is my third year volunteering for Guiding Eyes for the Blind, where I train future service dogs. I love being outdoors and exploring nature, and I take every opportunity to try new things and meet new people. 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</> and <a href="{{ "/cv/" | relative_url }}">CV</>.
