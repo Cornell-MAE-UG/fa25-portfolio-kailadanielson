@@ -37,8 +37,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-include:
-  - _pages
+# include:
+#   - _pages
 
 # Plugins (previously gems:)
 plugins:
