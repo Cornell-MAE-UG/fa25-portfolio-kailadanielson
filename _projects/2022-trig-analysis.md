@@ -9,7 +9,7 @@ image: /assets/images/mae3270.png
 For this project, we analyzed the structural behavior of a torque wrench using both hand calculations and finite element modeling. We created a CAD model using optimized parameters and analyzed the stress, strain, and deformation of the model under loading in ANSYS. 
 
 Cad Model:
-<img src="{{ '/assets/images/mae3270.png' | relative_url }}" alt="CAD Model" width="800">
+<img src="{{ '/assets/images/3270cad.png' | relative_url }}" alt="CAD Model" width="800">
 
 Material:
 We chose to use Aluminum 7075 T6 due to it being a common aluminum alloy which has a high strength-to-weight ratio. It has a Young's modulus of 10.4e6 psi, a Poisson's ratio of 0.3, a tensile strength of 83e3 psi, a fracture toughness of 24e3 psi-sqrt(in), and a fatigue strength of 25e3 psi. We found that this material was able to satifsfy our safety and output requirements. 
