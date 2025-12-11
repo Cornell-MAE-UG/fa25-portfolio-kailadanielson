@@ -24,6 +24,7 @@ Normal Strain Contours:
 
 Principal Stress Contours:
 <img src="{{ '/assets/images/principalstress1.png' | relative_url }}" alt="Principal Stress" width="800">
+.
 <img src="{{ '/assets/images/principalstress2.png' | relative_url }}" alt="Principal Stress" width="800">
 
 Results from FEM:
