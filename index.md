@@ -6,7 +6,7 @@ title: Kaila Danielson
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/DSC05505.jpg" | relative_url }}){: class="profile-image"}
 
  
  Hi! My name is Kaila, and I am a current Junior studying Mechanical Engineering at Cornell University. I have a deep passion for physics, design, robotics, aerospace, and automotive engineering. I am an active member of Combat Robotics @ Cornell, one of Cornell's leading project teams, and I am passionate about close collaboration and making engineering fun.
