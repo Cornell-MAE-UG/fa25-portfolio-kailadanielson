@@ -18,6 +18,7 @@ This semester in my class MAE 3230 Introductory Fluid Mechanics, we performed a 
 
 Overall, this was a very fun project to collaborate on, and helped solidify my fluid-mechanical knowledge through a fun, hands-on application. Please check out our final presentation below!  
 
+Click on the thumbnail to watch the video:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3ZLGq0wO1b0">
     <img src="https://img.youtube.com/vi/3ZLGq0wO1b0/maxresdefault.jpg" width="400">
