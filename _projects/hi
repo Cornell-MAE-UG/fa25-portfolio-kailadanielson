@@ -1,0 +1,12 @@
+---
+layout: project
+title: MAE 3240 - Assignment 
+description: Discussion of Heat Transfer Assignment
+technologies: 
+---
+
+In my class, MAE 3240, we have been learning many of the fundamental concepts of heat transfer mechanics. On our recent homework assignment (number 5), I solidified a lot of my new knowledge and understanding of the use of fins to increase the surface area of a component and boost the convective heat transfer to the surrounding air. Additionally, by solving the first problem, I learned how to apply the fin equation to a $5\times5$ array. In this problem, we calculated the overall surface efficiency ($\eta_o$) and constructed a thermal resistance network which allowed me to see how individual components—like contact resistance ($R_c$) and slab conduction contribute to the total temperature drop of the heater. 
+
+The second problem in the assignment introduced the new concept of transient heat transfer and using the Lumped Capacitance Method to understand a long wire submerged in an oil bath. I learned to first validate the model using the Biot number ($Bi = hL_c / k < 0.1$), to ensure that internal temperature gradients could be neglected. After, I was able to derive an expression expression for the wire temperature as a function of time. This assignment was very useful in solidifying my heat transfer knowledge and will help prepare me for my future work.
+
+[Download the assignment]({{ "/assets/use this.pdf" | relative_url }}) in PDF format.
