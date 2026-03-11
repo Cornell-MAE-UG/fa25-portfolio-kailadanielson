@@ -9,4 +9,10 @@ In my class, MAE 3240, we have been learning many of the fundamental concepts of
 
 The second problem in the assignment introduced the new concept of transient heat transfer and using the Lumped Capacitance Method to understand a long wire submerged in an oil bath. I learned to first validate the model using the Biot number, to ensure that internal temperature gradients could be neglected. After, I was able to derive an expression expression for the wire temperature as a function of time. This assignment was very useful in solidifying my heat transfer knowledge and will help prepare me for my future work.
 
-<img src="{{ '/assets/images/one.png' | relative_url }}" alt="Strain" width="800">
+<img src="{{ '/assets/images/one.png' | relative_url }}" alt="Strain" width="600">
+
+<img src="{{ '/assets/images/two.png' | relative_url }}" alt="Strain" width="600">
+
+<img src="{{ '/assets/images/three.png' | relative_url }}" alt="Strain" width="600">
+
+<img src="{{ '/assets/images/four.png' | relative_url }}" alt="Strain" width="600">
